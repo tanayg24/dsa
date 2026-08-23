@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanayg24/dsa/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
