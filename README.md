@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanayg24/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
