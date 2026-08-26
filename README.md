@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanayg24/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/tanayg24/dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanayg24/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/tanayg24/dsa/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
