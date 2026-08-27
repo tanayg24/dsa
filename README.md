@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/tanayg24/dsa/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/tanayg24/dsa/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/tanayg24/dsa/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
