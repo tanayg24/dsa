@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tanayg24/dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanayg24/dsa/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tanayg24/dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
