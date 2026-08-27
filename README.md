@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanayg24/dsa/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
