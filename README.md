@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 ## Memoization
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tanayg24/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
