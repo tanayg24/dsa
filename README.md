@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/tanayg24/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
