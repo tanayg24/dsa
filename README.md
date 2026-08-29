@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanayg24/dsa/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
