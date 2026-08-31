@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
