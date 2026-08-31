@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/tanayg24/dsa/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanayg24/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
