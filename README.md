@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/tanayg24/dsa/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanayg24/dsa/tree/master/0100-same-tree) |
+| [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
