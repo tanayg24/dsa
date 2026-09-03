@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
 ## Math
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/tanayg24/dsa/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/tanayg24/dsa/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 ## Graph Theory
 |  |
 | ------- |
