@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
