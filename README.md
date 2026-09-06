@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/tanayg24/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 ## Memoization
 |  |
 | ------- |
