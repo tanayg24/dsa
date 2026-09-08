@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanayg24/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanayg24/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanayg24/dsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanayg24/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanayg24/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanayg24/dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tanayg24/dsa/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 ## Bidirectional Search
 |  |
 | ------- |
