@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanayg24/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tanayg24/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanayg24/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/tanayg24/dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tanayg24/dsa/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/tanayg24/dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanayg24/dsa/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -249,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tanayg24/dsa/tree/master/0147-insertion-sort-list) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
