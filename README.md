@@ -285,5 +285,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/tanayg24/dsa/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/tanayg24/dsa/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
