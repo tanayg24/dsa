@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tanayg24/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tanayg24/dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanayg24/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanayg24/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanayg24/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanayg24/dsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanayg24/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tanayg24/dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanayg24/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanayg24/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanayg24/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanayg24/dsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanayg24/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/tanayg24/dsa/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/tanayg24/dsa/tree/master/0185-department-top-three-salaries) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
