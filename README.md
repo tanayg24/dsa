@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tanayg24/dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/tanayg24/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tanayg24/dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/tanayg24/dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tanayg24/dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/tanayg24/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanayg24/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/tanayg24/dsa/tree/master/0132-palindrome-partitioning-ii) |
