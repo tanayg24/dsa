@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanayg24/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanayg24/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/tanayg24/dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanayg24/dsa/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/tanayg24/dsa/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanayg24/dsa/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tanayg24/dsa/tree/master/0134-gas-station) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanayg24/dsa/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/tanayg24/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
