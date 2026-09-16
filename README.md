@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanayg24/dsa/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/tanayg24/dsa/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tanayg24/dsa/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/tanayg24/dsa/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tanayg24/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/tanayg24/dsa/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/tanayg24/dsa/tree/master/0115-distinct-subsequences) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanayg24/dsa/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tanayg24/dsa/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/tanayg24/dsa/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tanayg24/dsa/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanayg24/dsa/tree/master/0135-candy) |
