@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanayg24/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
+| [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanayg24/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tanayg24/dsa/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 ## Brute-Force Search
 |  |
 | ------- |
