@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanayg24/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/tanayg24/dsa/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
