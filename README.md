@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanayg24/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanayg24/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/tanayg24/dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/tanayg24/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tanayg24/dsa/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanayg24/dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/tanayg24/dsa/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanayg24/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tanayg24/dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
