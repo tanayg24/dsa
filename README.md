@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanayg24/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/tanayg24/dsa/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanayg24/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tanayg24/dsa/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanayg24/dsa/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanayg24/dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tanayg24/dsa/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 ## Brute-Force Search
 |  |
