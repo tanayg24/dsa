@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanayg24/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanayg24/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Counting
@@ -450,4 +453,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
