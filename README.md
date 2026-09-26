@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanayg24/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanayg24/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanayg24/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanayg24/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 ## Linked List
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
