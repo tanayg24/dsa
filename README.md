@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
+| [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tanayg24/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanayg24/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanayg24/dsa/tree/master/0234-palindrome-linked-list) |
+| [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanayg24/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanayg24/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
+| [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
