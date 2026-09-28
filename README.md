@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanayg24/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tanayg24/dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanayg24/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tanayg24/dsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tanayg24/dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/tanayg24/dsa/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 ## Brute-Force Search
 |  |
