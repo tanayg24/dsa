@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanayg24/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanayg24/dsa/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/tanayg24/dsa/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanayg24/dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 ## Monotonic Stack
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanayg24/dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/tanayg24/dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
