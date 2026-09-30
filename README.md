@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanayg24/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanayg24/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanayg24/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/tanayg24/dsa/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/tanayg24/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/tanayg24/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/tanayg24/dsa/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanayg24/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
