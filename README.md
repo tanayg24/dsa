@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanayg24/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/tanayg24/dsa/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tanayg24/dsa/tree/master/0404-sum-of-left-leaves) |
 ## Matrix
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tanayg24/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanayg24/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tanayg24/dsa/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tanayg24/dsa/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tanayg24/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanayg24/dsa/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tanayg24/dsa/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/tanayg24/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanayg24/dsa/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 ## Geometry
 |  |
 | ------- |
@@ -645,4 +651,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
