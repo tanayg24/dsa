@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanayg24/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/tanayg24/dsa/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanayg24/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tanayg24/dsa/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/tanayg24/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/tanayg24/dsa/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 ## Trie
