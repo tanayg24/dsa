@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanayg24/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 ## Memoization
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/tanayg24/dsa/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanayg24/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 ## Trie
