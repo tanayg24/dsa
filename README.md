@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanayg24/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/tanayg24/dsa/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/tanayg24/dsa/tree/master/0174-dungeon-game) |
+| [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 ## Memoization
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/tanayg24/dsa/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanayg24/dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 ## Trie
