@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 ## Hash Table
 |  |
 | ------- |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 ## Counting
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 ## Iterator
 |  |
 | ------- |
