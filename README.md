@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanayg24/dsa/tree/master/0139-word-break) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Database
 |  |
 | ------- |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
@@ -688,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Newton's Method
 |  |
 | ------- |
