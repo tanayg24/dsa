@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/tanayg24/dsa/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/tanayg24/dsa/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/tanayg24/dsa/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tanayg24/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/tanayg24/dsa/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
