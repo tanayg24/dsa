@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tanayg24/dsa/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tanayg24/dsa/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
