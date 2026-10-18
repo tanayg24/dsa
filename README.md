@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanayg24/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
+| [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Greedy
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tanayg24/dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/tanayg24/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/tanayg24/dsa/tree/master/0547-number-of-provinces) |
+| [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
