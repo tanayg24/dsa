@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
+| [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 ## Memoization
 |  |
 | ------- |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 ## Counting
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 ## Iterator
 |  |
 | ------- |
