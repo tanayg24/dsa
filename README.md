@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tanayg24/dsa/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
+| [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanayg24/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 ## Math
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/tanayg24/dsa/tree/master/0402-remove-k-digits) |
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
+| [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Greedy
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanayg24/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tanayg24/dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
+| [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 ## Stack
 |  |
 | ------- |
