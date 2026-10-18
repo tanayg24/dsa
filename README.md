@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/tanayg24/dsa/tree/master/0456-132-pattern) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Trie
 |  |
 | ------- |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanayg24/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanayg24/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -697,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Counting
 |  |
 | ------- |
@@ -734,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Iterator
 |  |
 | ------- |
