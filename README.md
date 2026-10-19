@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/tanayg24/dsa/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/tanayg24/dsa/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/tanayg24/dsa/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/tanayg24/dsa/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
@@ -871,4 +875,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
