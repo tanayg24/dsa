@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanayg24/dsa/tree/master/0496-next-greater-element-i) |
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/tanayg24/dsa/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Greedy
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -661,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanayg24/dsa/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/tanayg24/dsa/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Brute-Force Search
