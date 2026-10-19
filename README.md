@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
+| [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanayg24/dsa/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tanayg24/dsa/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tanayg24/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tanayg24/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tanayg24/dsa/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tanayg24/dsa/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 ## Bidirectional Search
 |  |
 | ------- |
