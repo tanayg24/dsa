@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanayg24/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+| [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 ## Tree
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
+| [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -717,12 +720,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
+| [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanayg24/dsa/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 ## String Matching
 |  |
 | ------- |
