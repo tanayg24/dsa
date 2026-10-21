@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanayg24/dsa/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/tanayg24/dsa/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 ## Geometry
 |  |
 | ------- |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanayg24/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Brute-Force Search
 |  |
@@ -721,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
+| [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
