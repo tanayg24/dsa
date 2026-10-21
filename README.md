@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/tanayg24/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
