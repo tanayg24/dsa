@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanayg24/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## String
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Tree
 |  |
 | ------- |
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -727,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -874,14 +881,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 ## Cartesian Tree
 |  |
 | ------- |
