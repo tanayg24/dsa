@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Iterator
 |  |
 | ------- |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/tanayg24/dsa/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/tanayg24/dsa/tree/master/2762-continuous-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
