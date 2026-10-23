@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/tanayg24/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Counting
 |  |
 | ------- |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Iterator
 |  |
 | ------- |
@@ -921,4 +926,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanayg24/dsa/tree/master/0785-is-graph-bipartite) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
