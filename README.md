@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Memoization
 |  |
 | ------- |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Geometry
 |  |
 | ------- |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -856,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -900,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Graph Coloring
 |  |
 | ------- |
