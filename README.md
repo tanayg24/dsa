@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
 | ------- |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
 | ------- |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/tanayg24/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Iterator
 |  |
 | ------- |
