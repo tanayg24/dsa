@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Counting
 |  |
 | ------- |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/tanayg24/dsa/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanayg24/dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -821,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/tanayg24/dsa/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Iterator
 |  |
 | ------- |
@@ -834,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/tanayg24/dsa/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Newton's Method
 |  |
 | ------- |
