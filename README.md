@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanayg24/dsa/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/tanayg24/dsa/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
 |  |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanayg24/dsa/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/tanayg24/dsa/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0641-design-circular-deque](https://github.com/tanayg24/dsa/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
+| [0901-online-stock-span](https://github.com/tanayg24/dsa/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tanayg24/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0901-online-stock-span](https://github.com/tanayg24/dsa/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tanayg24/dsa/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
