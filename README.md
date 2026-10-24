@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/tanayg24/dsa/tree/master/0778-swim-in-rising-water) |
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
+| [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tanayg24/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanayg24/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanayg24/dsa/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tanayg24/dsa/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanayg24/dsa/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tanayg24/dsa/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/tanayg24/dsa/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/tanayg24/dsa/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/tanayg24/dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
