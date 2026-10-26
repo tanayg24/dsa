@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tanayg24/dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tanayg24/dsa/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tanayg24/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/tanayg24/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanayg24/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanayg24/dsa/tree/master/0085-maximal-rectangle) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tanayg24/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tanayg24/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanayg24/dsa/tree/master/0191-number-of-1-bits) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tanayg24/dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tanayg24/dsa/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/tanayg24/dsa/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tanayg24/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanayg24/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tanayg24/dsa/tree/master/0113-path-sum-ii) |
