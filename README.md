@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanayg24/dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/tanayg24/dsa/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tanayg24/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/tanayg24/dsa/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanayg24/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanayg24/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tanayg24/dsa/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/tanayg24/dsa/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/tanayg24/dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tanayg24/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanayg24/dsa/tree/master/0191-number-of-1-bits) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/tanayg24/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanayg24/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/tanayg24/dsa/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanayg24/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tanayg24/dsa/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/tanayg24/dsa/tree/master/0126-word-ladder-ii) |
