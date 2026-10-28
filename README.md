@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/tanayg24/dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/tanayg24/dsa/tree/master/0397-integer-replacement) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## String
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/tanayg24/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/tanayg24/dsa/tree/master/0721-accounts-merge) |
 | [0936-stamping-the-sequence](https://github.com/tanayg24/dsa/tree/master/0936-stamping-the-sequence) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -798,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -805,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1591-strange-printer-ii](https://github.com/tanayg24/dsa/tree/master/1591-strange-printer-ii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -850,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Data Stream
 |  |
 | ------- |
