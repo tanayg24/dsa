@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/tanayg24/dsa/tree/master/1632-rank-transform-of-a-matrix) |
 | [1696-jump-game-vi](https://github.com/tanayg24/dsa/tree/master/1696-jump-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/tanayg24/dsa/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/tanayg24/dsa/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/tanayg24/dsa/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
 |  |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/tanayg24/dsa/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanayg24/dsa/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanayg24/dsa/tree/master/1462-course-schedule-iv) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Matrix
 |  |
 | ------- |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/tanayg24/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/tanayg24/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0654-maximum-binary-tree](https://github.com/tanayg24/dsa/tree/master/0654-maximum-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -686,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Geometry
 |  |
 | ------- |
@@ -804,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanayg24/dsa/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanayg24/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1027,4 +1034,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tanayg24/dsa/tree/master/0218-the-skyline-problem) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## DP on Trees
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
