@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanayg24/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanayg24/dsa/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/tanayg24/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/tanayg24/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/tanayg24/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tanayg24/dsa/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/tanayg24/dsa/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tanayg24/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanayg24/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tanayg24/dsa/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/tanayg24/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/tanayg24/dsa/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tanayg24/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/tanayg24/dsa/tree/master/0547-number-of-provinces) |
