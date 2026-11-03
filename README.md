@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanayg24/dsa/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tanayg24/dsa/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanayg24/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/tanayg24/dsa/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/tanayg24/dsa/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/tanayg24/dsa/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/tanayg24/dsa/tree/master/0239-sliding-window-maximum) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tanayg24/dsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tanayg24/dsa/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/tanayg24/dsa/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/tanayg24/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
