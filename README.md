@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanayg24/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tanayg24/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanayg24/dsa/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/tanayg24/dsa/tree/master/0282-expression-add-operators) |
 | [0913-cat-and-mouse](https://github.com/tanayg24/dsa/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/tanayg24/dsa/tree/master/1728-cat-and-mouse-ii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/tanayg24/dsa/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/tanayg24/dsa/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/tanayg24/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/tanayg24/dsa/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/tanayg24/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/tanayg24/dsa/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanayg24/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/tanayg24/dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/tanayg24/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tanayg24/dsa/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/tanayg24/dsa/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
