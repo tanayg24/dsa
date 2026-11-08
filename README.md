@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanayg24/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanayg24/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanayg24/dsa/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/tanayg24/dsa/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/tanayg24/dsa/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanayg24/dsa/tree/master/0095-unique-binary-search-trees-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/tanayg24/dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/tanayg24/dsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/tanayg24/dsa/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/tanayg24/dsa/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/tanayg24/dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tanayg24/dsa/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/tanayg24/dsa/tree/master/0093-restore-ip-addresses) |
